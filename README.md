@@ -1,2 +1,2 @@
-# Kaardhika-s-Portfolio
+# Kaardhika Nair-Portfolio
 Data Analytics Portfoilio
