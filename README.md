@@ -1,4 +1,4 @@
-# Kaardhika's Portfolio
+# Kaardhika Nair Portfolio
 
 # [PROJECT 1:Empowering Survivors: Analyzing Employment Data for Individuals Impacted by Sexual Slavery](https://github.com/kaardhika/Empowering-Survivors)
 
